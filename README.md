@@ -89,6 +89,8 @@ http://localhost:7860
 2. Click **"Summarize Video"** to generate a concise summary.
 3. Ask any question related to the video and click **"Ask a Question"**.
 
+<img width="1846" height="807" alt="צילום מסך 2025-12-17 121641" src="https://github.com/user-attachments/assets/c1eb7dc8-6b6f-4010-896f-e4a0aac3f5ec" />
+
 ---
 
 ## Limitations
