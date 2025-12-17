@@ -1,5 +1,3 @@
-# youtube_bot
-
 # YouTube Video Summarizer & Q&A Bot
 
 This project is a Python-based tool that **summarizes YouTube videos and allows users to ask questions about their content**, using the video transcript, semantic search with FAISS, and a locally running Large Language Model (LLM) via Ollama.
